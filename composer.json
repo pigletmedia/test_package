@@ -1,0 +1,14 @@
+{
+    "name": "jpolus/test_package",
+    "type": "moodle-block",
+    "authors": [
+        {
+            "name": "Jacek Polus",
+            "email": "Jacek.Polus@royalroads.ca"
+        }
+    ],
+    "require": {
+    	"composer/installers": "~1.0"
+    }
+}
+
